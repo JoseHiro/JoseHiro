@@ -57,4 +57,4 @@ I made this as a personal challenge to test my skills and to review things that 
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={JoseHiro}">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHiro">
