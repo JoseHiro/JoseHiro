@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)">
+ 
+
+</div>
+<div style="display-flex">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
   
 </div>
@@ -50,3 +55,6 @@ It was group project with my classmates and I worked for both front and back end
 Ruby on rails, HTML and CSS
 I made this as a personal challenge to test my skills and to review things that I have studied.</p>
 <br>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={JoseHiro}">
