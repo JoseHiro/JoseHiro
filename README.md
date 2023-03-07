@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div style="text-align:center;">
  <h2>Hi! I'm Josey. Welcome to my page!</h2>
- <P>I am a junior fullstack programmer in Ruby on Rails and JS</p>
+ <P>I am a junior fullstack programmer!</p>
  <P>Currently looking for job where I can build and develop my skills</p>
  <div style="display-flex">
  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
