@@ -39,10 +39,14 @@ Here are some ideas to get you started:
 
 <a style="color: yellow;font-weight:bold; font-size:20px;" href="https://seekr888.herokuapp.com/">Seekr</a>
 <br>
+<img style="width:30%" src="https://user-images.githubusercontent.com/108254240/223484099-da795e45-4ffd-4b6d-b1c3-9d1f4d1e3fb3.png">
+
+
+<br>
 <p>App that allows you to find specific products on highstreets. You can add items that you want in your itinerary from the location that you have set. It shows that path in bicycle, car or walking by your preference. 
 I was in charge to work with the Front-end using Ruby on rails, html, CSS for this project.</p>
 
-
+<hr>
 <a style="font-weight:bold; font-size:20px;" href="https://github.com/JoseHiro/Ventri">Ventri</a><br>
 <p>App that you can find rental cars where you go. You can avoid using the extra time to go to a car rental office to fill in multiple papers. By this app we can find cars by the details that you want. For instance, color, brand, model, size, number of seats.... which can be suitable for different usage and occasion.
 
