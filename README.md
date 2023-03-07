@@ -48,6 +48,8 @@ I was in charge to work with the Front-end using Ruby on rails, html, CSS for th
 
 <hr>
 <a style="font-weight:bold; font-size:20px;" href="https://github.com/JoseHiro/Ventri">Ventri</a><br>
+<img width="30%" alt="Screenshot 2023-03-07 at 10 37 48" src="https://user-images.githubusercontent.com/108254240/223523764-db3db849-268c-4ce5-a095-472632b6c233.png">
+
 <p>App that you can find rental cars where you go. You can avoid using the extra time to go to a car rental office to fill in multiple papers. By this app we can find cars by the details that you want. For instance, color, brand, model, size, number of seats.... which can be suitable for different usage and occasion.
 
 It was group project with my classmates and I worked for both front and back end. I used Ruby on rails, HTML and CSS for this project.</p>
