@@ -61,4 +61,5 @@ It was group project with my classmates and I worked for both front and back end
 Ruby on rails, HTML and CSS
 I made this as a personal challenge to test my skills and to review things that I have studied.</p>
 <br>
+<!-- <img width="30%" alt="Screenshot 2023-03-07 at 10 37 48" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"> -->
 
