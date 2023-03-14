@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  </div>
  
  <br>
- <p>👁️‍ Certified Courses</p>
+ <h3>👁️‍ Certified Courses</h3>
  <ul>
   <li>Le Wagon Mexico Full-Stack Coding Bootcamp</li>
   <li>Testing Ruby with RSpec: The Complete Guide</li>
