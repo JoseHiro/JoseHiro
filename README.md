@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  </div>
  <hr>
  
- <h3>💪 Skills and Experience</h3>
+ <h3>💪 Skills and Experiences</h3>
  <div style="display-flex">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
