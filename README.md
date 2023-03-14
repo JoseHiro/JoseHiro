@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
  
  <div style="display-flex">
-  <p>📫 Contact</p>
+  <h3>📫 Contact</h3>
   <a href="https://www.linkedin.com/in/josey-sekine/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-plain-wordmark.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
   
  <hr>
  <div style="display-flex">
-  <p>🔭 I’m currently buiding more skills with ...</p>
+  <h3>🔭 I’m currently buiding more skills with ...</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
  </div>
