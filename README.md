@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img style="" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95217b50e99b1e0242e86840d5b9c1fdf3f4ec1e770&rid=giphy.gif&ct=g">
+
+
 <div style="text-align:center;">
- <h2>Hi! I'm Josey. Welcome to my page!</h2>
+ <h2>👦 Hi! I'm Josey. Welcome to my page!</h2>
  <P>I am a junior fullstack programmer!</p>
  <P>I have learned C++ at my college, worked with several projects at Le Wagon bootcamp in Mexico. Currently, looking for job opportunities where I can build and develop my skills.</p>
 </div>
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
  <div style="display-flex">
   <h3>📫 Contact</h3>
   <a href="https://www.linkedin.com/in/josey-sekine/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="top" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
  </div>
  <hr>
@@ -63,6 +66,7 @@ Here are some ideas to get you started:
  </ul>
  <hr>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseHiro&bg_color=262626&color=b6aab5&line=cca266&point=d5bc15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> 🚀 My projects</h3>
 
