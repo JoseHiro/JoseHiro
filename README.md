@@ -15,14 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b95217b50e99b1e0242e86840d5b9c1fdf3f4ec1e770&rid=giphy.gif&ct=g">
+<p align="center">
+<img style="width:600px;" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+</p>
+
+<!-- 
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHiro&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=JoseHiro&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table> -->
 
 
-<div style="text-align:center;">
+<div align="center" style="text-align:center;">
  <h2>👦 Hi! I'm Josey. Welcome to my page!</h2>
- <P>I am a junior fullstack programmer!</p>
- <P>I have learned C++ at my college, worked with several projects at Le Wagon bootcamp in Mexico. Currently, looking for job opportunities where I can build and develop my skills.</p>
 </div>
+<P>I am a junior fullstack programmer!</p>
+ <P>I have learned C++ at my college, worked with several projects at Le Wagon bootcamp in Mexico. Currently, looking for job opportunities where I can build and develop my skills.</p>
  
  <div style="display-flex">
   <h3>📫 Contact</h3>
@@ -66,7 +76,7 @@ Here are some ideas to get you started:
  </ul>
  <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseHiro&bg_color=262626&color=b6aab5&line=cca266&point=d5bc15&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseHiro&bg_color=000000&color=9ee5b1&line=11ee87&point=d5ee1b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> 🚀 My projects</h3>
 
