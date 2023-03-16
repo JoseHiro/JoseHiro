@@ -98,6 +98,8 @@ I was in charge to work with the Front-end using Ruby on rails, html, CSS for th
 It was group project with my classmates and I worked for both front and back end. I used Ruby on rails, HTML and CSS for this project.</p>
 
 <hr>
+<img width="30%" alt="Screenshot 2023-03-16 at 16 54 33" src="https://user-images.githubusercontent.com/108254240/225777641-2e788330-daf2-4250-be52-8e952fe6b99e.png">
+
 
 <a style="font-weight:bold;font-size:20px;" href="https://github.com/JoseHiro/Caralibro">Calalibro</a>
 <p>Facebook Clone
