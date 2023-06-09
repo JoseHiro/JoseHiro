@@ -1,14 +1,15 @@
 
 
-  <img style="width:600px;" src="https://github.com/JoseHiro/JoseHiro/assets/108254240/b789b7db-b987-4524-8965-a197ad0637ab">
 
 <p align="center">
-<img style="width:600px;" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<!-- <img style="width:600px;" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
+
+<img style="width:600px;" src="https://camo.githubusercontent.com/14268c9a441c1218439ce5d5190bbbcbe4159506ae4f4dad4c0815b0cfa738f7/68747470733a2f2f7777772e66726565636f646563616d702e6f72672f6e6577732f636f6e74656e742f696d616765732f323032322f31312f686972652d66756c6c2d737461636b2d646576656c6f70657273313534363530373437343331372d312e676966">
 
 </p>
 
 <div align="center" style="text-align:center;">
- <h2>👦 Hi! I'm Josey. Welcome to my page!</h2>
+ <h2>🧑🏻‍💻 Hi! I'm Josey. Welcome to my page!</h2>
 </div>
 <P>I am a junior fullstack programmer!</p>
  <P>I have learned C++ at my college, worked with several projects at Le Wagon bootcamp in Mexico. Currently, looking for job opportunities where I can build and develop my skills.</p>
@@ -21,7 +22,7 @@
  </div>
  <hr>
  
- <h3>💪 Skills and Experiences</h3>
+ <h3>💪🏻 Skills and Experiences</h3>
  <div style="display-flex">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rails/rails-original-wordmark.svg">
@@ -54,7 +55,7 @@
   
  </div>
  
- <h3>👨🏻‍💻 Work experience</h3>
+ <h3> 🏻‍💻Work experience</h3>
  <ul>
   <li>GACCI Frontend Internship</li>
  </ul>
