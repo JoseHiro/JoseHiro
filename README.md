@@ -15,18 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p align="center">
 <img style="width:600px;" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+  <img style="width:600px;" src="https://tenor.com/view/coding-gif-24625099">
 </p>
-
-<!-- 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHiro&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=JoseHiro&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table> -->
-
 
 <div align="center" style="text-align:center;">
  <h2>👦 Hi! I'm Josey. Welcome to my page!</h2>
@@ -69,7 +62,6 @@ Here are some ideas to get you started:
  <div style="display-flex">
   <h3>🔭 I’m currently buiding more skills with ...</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -78,7 +70,7 @@ Here are some ideas to get you started:
  
  <h3>👨🏻‍💻 Work experience</h3>
  <ul>
-  <li>GACCI Frontend</li>
+  <li>GACCI Frontend Internship</li>
  </ul>
   <hr>
   
@@ -90,7 +82,7 @@ Here are some ideas to get you started:
  </ul>
  <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoseHiro&bg_color=000000&color=9ee5b1&line=11ee87&point=d5ee1b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseHiro&bg_color=1a2c3c&color=ffffff&line=74da72&point=6ee770&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> 🚀 My projects</h3>
 
