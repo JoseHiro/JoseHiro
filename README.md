@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   
  </div>
  
- <h3>👁👨🏻‍💻 Work experience</h3>
+ <h3>👨🏻‍💻 Work experience</h3>
  <ul>
   <li>GACCI Frontend</li>
  </ul>
