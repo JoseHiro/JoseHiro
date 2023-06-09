@@ -54,8 +54,8 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   
  </div>
- 
- <h3> 🏻‍💻Work experience</h3>
+
+ <h3>💻Work experience</h3>
  <ul>
   <li>GACCI Frontend Internship</li>
  </ul>
