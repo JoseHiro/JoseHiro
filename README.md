@@ -60,6 +60,7 @@ Here are some ideas to get you started:
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg">
   <img style="width:5%" src="https://github.com/JoseHiro/JoseHiro/assets/108254240/b6d48a13-ff5c-4380-97c0-9ddfe842a975">
+  <img style="width:5%" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
 
 </div>
 
@@ -75,6 +76,12 @@ Here are some ideas to get you started:
   
  </div>
  
+ <h3>👁👨🏻‍💻 Work experience</h3>
+ <ul>
+  <li>GACCI Frontend</li>
+ </ul>
+  <hr>
+  
  <br>
  <h3>👁️‍ Certified Courses</h3>
  <ul>
