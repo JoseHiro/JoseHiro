@@ -69,7 +69,8 @@
  </ul>
  <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseHiro&bg_color=1a2c3c&color=ffffff&line=74da72&point=6ee770&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseHiro&bg_color=1a2c3c&color=ffffff&line=74da72&point=6ee770&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
 
 <h3> 🚀 My projects</h3>
 
