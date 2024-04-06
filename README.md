@@ -10,7 +10,7 @@
  <h2>🧑🏻‍💻 Hi! I'm Josey. Welcome to my page!</h2>
 </div>
 <P>I am a junior fullstack programmer!</p>
- <P>I have learned C++ at my college, worked with several projects at Le Wagon bootcamp in Mexico. Currently, looking for job opportunities where I can build and develop my skills.</p>
+ <P>I start off learning C++ at my college, then worked with several projects at Le Wagon bootcamp in Mexico to get involved with real projects. I have been working as Frontend developer at Gacci and currently, looking for job opportunities where I can build and develop my skills. I am constantly builing my personal app projects to improve my backend skills too.</p>
  
  <div style="display-flex">
   <h3>📫 Contact</h3>
