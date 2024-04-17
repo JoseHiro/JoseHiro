@@ -9,7 +9,7 @@
 <div align="center" style="text-align:center;">
  <h2>🧑🏻‍💻 Hi! I'm Josey. Welcome to my page!</h2>
 </div>
-<P>I am a junior fullstack programmer!</p>
+<P>I am a Fullstack Programmer</p>
  <P>I start off learning C++ at my college, then worked with several projects at Le Wagon bootcamp in Mexico to get involved with real projects. I have been working as Frontend developer at Gacci and currently, looking for job opportunities where I can build and develop my skills. I am constantly builing my personal app projects to improve my backend skills too.</p>
  
  <div style="display-flex">
@@ -68,9 +68,6 @@
   <li>Testing Ruby with RSpec: The Complete Guide</li>
  </ul>
  <hr>
-
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoseHiro&bg_color=1a2c3c&color=ffffff&line=74da72&point=6ee770&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
 
 <h3> 🚀 My projects</h3>
 
