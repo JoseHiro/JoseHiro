@@ -43,7 +43,6 @@
 
 
 </div>
-
   
  <hr>
  <div style="display-flex">
