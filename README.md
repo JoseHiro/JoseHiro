@@ -54,7 +54,7 @@
  </div>
   <hr>
 
- <h3>💻 Work experience</h3>
+ <h3>💻 Work Experience</h3>
  <ul>
   <li>GACCI Frontend Internship</li>
  </ul>
