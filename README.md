@@ -46,7 +46,7 @@
   
  <hr>
  <div style="display-flex">
-  <h3>🔭 I’m currently buiding more skills with ...</h3>
+  <h3>🔭 I’m currently buiding more skills of ...</h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
