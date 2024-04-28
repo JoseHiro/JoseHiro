@@ -68,7 +68,7 @@
  </ul>
  <hr>
 
-<h3> 🚀 My projects</h3>
+<h3> 🚀 My Projects</h3>
 
 <a style="color: yellow;font-weight:bold; font-size:20px;" href="https://seekr888.herokuapp.com/">Seekr</a>
 <br>
