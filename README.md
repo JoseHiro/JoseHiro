@@ -9,7 +9,7 @@
 <div align="center" style="text-align:center;">
  <h1>🧑🏻‍💻 Hi! I'm Josey. Welcome to my page!</h1>
 </div>
-<P>I am a Fullstack Programmer</p>
+<P>I am a Full-Stack Programmer</p>
  <P>I start off learning C++ at my college, then worked with several projects at Le Wagon bootcamp in Mexico to get involved with real modern projects. I have been working as Frontend developer at Gacci and currently, looking for job opportunities where I can build and develop my skills. I am constantly builing my personal app projects to improve my backend skills too.</p>
  
  <div style="display-flex">
