@@ -2,7 +2,7 @@
 <p align="center">
 <img style="width:600px;" src="https://programminginsider.com/wp-content/uploads/2023/10/techies.gif">
 </p>
- 
+
 <div align="center" style="text-align:center;">
  <h1>🧑🏻‍💻 Hi! I'm Josey. Welcome to my page</h1>
 </div>
