@@ -17,7 +17,6 @@
  </div>
  
  <hr>
- 
  <h3>💪🏻 Skills and Experiences</h3>
  <div style="display-flex">
  <img style="width:5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
